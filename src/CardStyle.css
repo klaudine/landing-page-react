@@ -1,0 +1,9 @@
+.row{
+    justify-content: center;
+    display:'flex';
+}
+.card {
+    display: block;
+    text-align: center;
+    margin: auto;
+}
